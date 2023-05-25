@@ -8,6 +8,8 @@ Project Topics:
 2. Matrix factorization visualizations on movie dataset
 3. Hidden Markov Models generating poetry
 
+Final Kaggle Ranking: 15 out of 56
+
 Group members credited: Gabriella Twombly, Eshani Patel, Mariamma Vazhaeparambil, and Saumya Chauhan.
 
 If you are a Caltech student, be careful not to commit any honor code violations by looking at this repository.
