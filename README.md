@@ -6,4 +6,4 @@
 2. Matrix factorization visualizations on movie dataset
 3. Hidden Markov Models generating poetry
 
-# Final Kaggle Ranking: 15 out of 56
+## Final Kaggle Ranking: 15 out of 56
